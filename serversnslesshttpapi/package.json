@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "serverless offline start"
+  },
+  "dependencies": {
+    "serverless-offline": "^13.8.0"
+  }
+}
