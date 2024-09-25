@@ -3,6 +3,10 @@
     "dev": "serverless offline start"
   },
   "dependencies": {
-    "serverless-offline": "^13.8.0"
+    "aws-sdk": "^2.1691.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "serverless-offline": "^13.8.0",
+    "sqs-consumer": "^11.0.2"
   }
 }
